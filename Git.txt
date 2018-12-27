@@ -1,0 +1,14 @@
+BitBucket - Atlassian.
+GitLab - Runner for DevOps. when code checked in, runner gets triggered.
+
+Configuration:
+> git config --global user.name ""
+> git config --global user.email @.com
+> git config --list
+
+>mkdir FirstRepo
+>cd FirstRepo
+>git init
+
+Creates a .git file.
+
