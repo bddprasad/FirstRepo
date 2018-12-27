@@ -12,3 +12,17 @@ Configuration:
 
 Creates a .git file.
 
+>create a file.
+>git status
+lists the changes.
+
+>git add .
+moves file to staged area.
+
+to unstage or remove
+>git remove
+
+>git commit -m "First repo commit"
+
+>git log
+log of changes made.
