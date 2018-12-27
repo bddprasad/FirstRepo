@@ -26,3 +26,8 @@ to unstage or remove
 
 >git log
 log of changes made.
+
+>git remote add origin https://github.com/bddprasad/FirstRepo.git
+>git remote -v
+
+>git push -u origin master
