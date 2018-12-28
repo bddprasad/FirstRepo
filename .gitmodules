@@ -4,3 +4,6 @@
 [submodule "AIML"]
 	path = AIML
 	url = https://github.com/bddprasad/AIML
+[submodule "dl_udacity"]
+	path = dl_udacity
+	url = https://github.com/bddprasad/dl_udacity
