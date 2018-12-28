@@ -31,3 +31,15 @@ log of changes made.
 >git remote -v
 
 >git push -u origin master
+
+>git branch branch_name
+>git checkout branch_name
+>git checkout master
+
+>git merge branch_name
+
+>git push -u origin branch_name
+
+>git branch -D branch_name
+
+>git push origin --delete branch_name
