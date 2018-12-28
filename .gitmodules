@@ -1,3 +1,6 @@
 [submodule "Org_Details"]
 	path = Org_Details
 	url = https://github.com/bddprasad/Org_Details
+[submodule "AIML"]
+	path = AIML
+	url = https://github.com/bddprasad/AIML
