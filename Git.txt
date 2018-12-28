@@ -31,3 +31,8 @@ log of changes made.
 >git remote -v
 
 >git push -u origin master
+
+>git clone server_repo_url
+
+>git reset --soft 
+removes the commit comments but retain the content.
