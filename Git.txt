@@ -45,4 +45,20 @@ log of changes made.
 >git push origin --delete branch_name
 
 >git submodule add htts://github.com/path_to_other_project
+> git add .
+>git commit -m 'added submodule'
+>git push origin master
+> cd sub_module
+> git commit -am 'commit'
+> git push
+It makes changes in the submodule actual location but not in the current parent.
+
+> cd ..
+> git status
+> git add .
+> git push
+
+>cd sub_module
+>git pull
+updates the current with remote content.
 
